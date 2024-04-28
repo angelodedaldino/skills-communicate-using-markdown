@@ -8,3 +8,7 @@
 $ git init
 initialized an empty repository on current terminal directory
 ```
+
+- [] Turn on Github Pages
+- [] Outline my portfolio
+- [] Introduce myself to the world
